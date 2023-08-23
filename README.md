@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Jared Dunn
+- 👨‍💻 I'm currently working as a Technical Trainer/Courseware Author&Editor/Full Stack Developer at [Webucator](https://www.webucator.com/)
+- 🌱 I'm currently learning about health inequality, technology, and policy as a CS/IAPA major at Brown University.
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/jared-m-dunn/)!
