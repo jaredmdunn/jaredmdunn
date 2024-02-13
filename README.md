@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 - 👨‍💻 I'm currently working as a Technical Trainer/Courseware Author&Editor/Full Stack Developer at [Webucator](https://www.webucator.com/).
 - 🌱 I'm currently learning about health inequality, technology, and policy as a CS/IAPA major at Brown University.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/jared-m-dunn/)!
+- 💬 For more about me, see my website [jaredmdunn.com](https://www.jaredmdunn.com)! 
